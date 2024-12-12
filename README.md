@@ -1,5 +1,6 @@
 
 ![fokaz-c's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fokaz-c&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+[![fokaz-c's GitHub stats](https://github-readme-stats.vercel.app/api?username=fokaz-c)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **fokaz-c/fokaz-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
